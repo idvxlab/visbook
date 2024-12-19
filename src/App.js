@@ -6,7 +6,7 @@ import './App.scss';  // 引入全局样式
 
 function App() {
   return (
-    <Router>
+    <Router basename="/visbook">
       <div className="App">
         {/* 路由配置 */}
         <Routes>

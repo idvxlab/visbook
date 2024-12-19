@@ -13,12 +13,12 @@ const FooterSection = () => {
             <Row gutter={48} align="middle">
                 <Col span={8}>
                     <div className="lab-info">
-                        <img src="/images/idvx_lab_logo.png" alt="IDV Lab" className="lab-logo" />
+                        <img src={`${process.env.PUBLIC_URL}/images/idvx_lab_logo.png`} alt="IDV Lab" className="lab-logo" />
                     </div>
                 </Col>
                 <Col span={8} >
                     <div className="qr-code">
-                    <img src="/images/QR_code.png" alt="QR Code" className="qr-image" />
+                    <img src={`${process.env.PUBLIC_URL}/images/QR_code.png`} alt="QR Code" className="qr-image" />
                     </div>
                 </Col>
             </Row>
@@ -35,7 +35,7 @@ const FooterSection = () => {
           </Col>
           <Col span={12}>
             <div className="location-map">
-              <img src="/images/address.png" alt="Location Map" className="map-image" />
+              <img src={`${process.env.PUBLIC_URL}/images/address.png`} alt="Location Map" className="map-image" />
             </div>
           </Col>
         </Row>

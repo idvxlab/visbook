@@ -178,8 +178,8 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson1/slide1.pdf",
-          exerciseUrl: "/materials/lesson1/exercise1.docx"
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson1/slide1.pdf`,
+          exerciseUrl: `${process.env.PUBLIC_URL}/materials/lesson1/exercise1.docx`
         }
       },
       {
@@ -226,8 +226,8 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson2/slide2.pdf",
-          exerciseUrl: "/materials/lesson2/exercise2.docx"
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson2/slide2.pdf`,
+          exerciseUrl: `${process.env.PUBLIC_URL}/materials/lesson2/exercise2.docx`
         }
       },
       {
@@ -264,8 +264,8 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson3/slide3.pdf",
-          exerciseUrl: "/materials/lesson3/exercise3.docx"
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson3/slide3.pdf`,
+          exerciseUrl: `${process.env.PUBLIC_URL}/materials/lesson3/exercise3.docx`
         }
       },
       {
@@ -307,8 +307,8 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson4/slide4.pdf",
-          exerciseUrl: "/materials/lesson4/exercise4.docx"
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson4/slide4.pdf`,
+          exerciseUrl: `${process.env.PUBLIC_URL}/materials/lesson4/exercise4.docx`
         }
       },
       {
@@ -330,8 +330,8 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson5/slide5.pdf",
-          exerciseUrl: "/materials/lesson5/exercise6.docx"
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson5/slide5.pdf`,
+          exerciseUrl: `${process.env.PUBLIC_URL}/materials/lesson5/exercise6.docx`
         }
       },
       {
@@ -358,8 +358,8 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson6/slide6.pdf",
-          exerciseUrl: "/materials/lesson6/exercise5.docx"
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson6/slide6.pdf`,
+          exerciseUrl: `${process.env.PUBLIC_URL}/materials/lesson6/exercise5.docx`
         }
       },
       {
@@ -386,7 +386,7 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson7/slide7.pdf",
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson7/slide7.pdf`,
           exerciseUrl: ""
         }
       },
@@ -414,7 +414,7 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson8/slide8.pdf",
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson8/slide8.pdf`,
           exerciseUrl: ""
         }
       },
@@ -452,7 +452,7 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson9/slide9.pdf",
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson9/slide9.pdf`,
           exerciseUrl: ""
         }
       },
@@ -480,8 +480,8 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson10/slide10.pdf",
-          exerciseUrl: "/materials/lesson10/exercise10.docx"
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson10/slide10.pdf`,
+          exerciseUrl: `${process.env.PUBLIC_URL}/materials/lesson10/exercise10.docx`
         }
       },
       {
@@ -528,8 +528,8 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson11/slide11.pdf",
-          exerciseUrl: "/materials/lesson11/exercise8.docx"
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson11/slide11.pdf`,
+          exerciseUrl: `${process.env.PUBLIC_URL}/materials/lesson11/exercise8.docx`
         }
       },
       {
@@ -576,8 +576,8 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson12/slide12.pdf",
-          exerciseUrl: "/materials/lesson12/exercise9.docx"
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson12/slide12.pdf`,
+          exerciseUrl: `${process.env.PUBLIC_URL}/materials/lesson12/exercise9.docx`
         }
       },
       {
@@ -614,8 +614,8 @@ const CourseOutline = () => {
           }
         ],
         materials: {
-          slidesUrl: "/materials/lesson13/slide13.pdf",
-          exerciseUrl: "/materials/lesson13/exercise10.docx"
+          slidesUrl: `${process.env.PUBLIC_URL}/materials/lesson13/slide13.pdf`,
+          exerciseUrl: `${process.env.PUBLIC_URL}/materials/lesson13/exercise10.docx`
         }
       },
       {
